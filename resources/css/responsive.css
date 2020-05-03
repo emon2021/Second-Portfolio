@@ -1,0 +1,390 @@
+/* mobile view */
+@media (max-width:500px)
+{
+.navbar-nav{
+	background-color: #fff;
+    color: #212121 !important;
+    z-index: 1;
+    margin-top: 5px;
+}
+.navbar-nav .nav-item .nav-link{
+	padding: 0.7em 1em!important;
+	font-size: 100%;
+    font-weight: 500;
+	color:#212121
+}
+.banner-text{
+	padding:150px 0 150px 0;
+}
+.banner-heading{
+	font-size: 30px;
+    line-height: 30px;
+    margin-bottom: 20px;
+}
+.banner-sub-heading{
+	font-size: 10px;
+    font-weight: 200;
+    line-height: 10px;
+    margin-bottom: 40px;
+}
+
+}
+
+@media (max-width:768px){
+	.banner-text{
+	padding:150px 0 150px 0;
+}
+	.banner-sub-heading{
+	font-size: 23px;
+    font-weight: 200;
+    line-height: 23px;
+    margin-bottom: 40px;
+}
+}
+
+@media(max-width:1195px)
+{
+	span.barTitle {
+    position: absolute;
+    top: -35px;
+    font-size: 20px;
+    font-weight: bold;
+}
+span.barTitle1 {
+    position: absolute;
+    top: -35px;
+    font-size: 20px;
+    font-weight: bold;
+}
+span.barTitle2 {
+    position: absolute;
+    top: -35px;
+    font-size: 20px;
+    font-weight: bold;
+}
+span.barTitle3 {
+    position: absolute;
+    top: -35px;
+    font-size: 20px;
+    font-weight: bold;
+}
+span.barTitle4 {
+    position: absolute;
+    top: -35px;
+    font-size: 20px;
+    font-weight: bold;
+}
+span.barTitle5 {
+    position: absolute;
+    top: -35px;
+    font-size: 20px;
+    font-weight: bold;
+}
+span.perTitle {
+    position: absolute;
+    font-size: 20px;
+    font-weight: bold;
+    top: 326px;
+    right: 16px;
+}
+span.perTitle1 {
+    position: absolute;
+    font-size: 20px;
+    font-weight: bold;
+    top: 383px;
+    right: 16px;
+}
+span.perTitle2 {
+    position: absolute;
+    font-size: 20px;
+    font-weight: bold;
+    top: 442px;
+    right: 16px;
+}
+span.perTitle3 {
+    position: absolute;
+    font-size: 20px;
+    font-weight: bold;
+    top: 503px;
+    right: 16px;
+}
+span.perTitle4 {
+    position: absolute;
+    font-size: 20px;
+    font-weight: bold;
+    top: 559px;
+    right: 16px;
+}
+span.perTitle5 {
+    position: absolute;
+    font-size: 20px;
+    font-weight: bold;
+    top: 618px;
+    right: 16px;
+}
+}
+
+@media(max-width:990px)
+{
+	span.barTitle {
+    position: absolute;
+    top: -35px;
+    font-size: 20px;
+    font-weight: bold;
+}
+span.barTitle1 {
+    position: absolute;
+    top: -35px;
+    font-size: 20px;
+    font-weight: bold;
+}
+span.barTitle2 {
+    position: absolute;
+    top: -35px;
+    font-size: 20px;
+    font-weight: bold;
+}
+span.barTitle3 {
+    position: absolute;
+    top: -35px;
+    font-size: 20px;
+    font-weight: bold;
+}
+span.barTitle4 {
+    position: absolute;
+    top: -35px;
+    font-size: 20px;
+    font-weight: bold;
+}
+span.barTitle5 {
+    position: absolute;
+    top: -35px;
+    font-size: 20px;
+    font-weight: bold;
+}
+span.perTitle {
+    position: absolute;
+    font-size: 20px;
+    font-weight: bold;
+    top: 399px;
+    right: 16px;
+}
+span.perTitle1 {
+    position: absolute;
+    font-size: 20px;
+    font-weight: bold;
+    top: 453px;
+    right: 16px;
+}
+span.perTitle2 {
+    position: absolute;
+    font-size: 20px;
+    font-weight: bold;
+    top: 514px;
+    right: 16px;
+}
+span.perTitle3 {
+    position: absolute;
+    font-size: 20px;
+    font-weight: bold;
+    top: 572px;
+    right: 16px;
+}
+span.perTitle4 {
+    position: absolute;
+    font-size: 20px;
+    font-weight: bold;
+    top: 629px;
+    right: 16px;
+}
+span.perTitle5 {
+    position: absolute;
+    font-size: 20px;
+    font-weight: bold;
+    top: 688px;
+    right: 16px;
+}
+}
+@media(max-width:768px)
+{
+	span.barTitle {
+    position: absolute;
+    top: -35px;
+    font-size: 20px;
+    font-weight: bold;
+}
+span.barTitle1 {
+    position: absolute;
+    top: -35px;
+    font-size: 20px;
+    font-weight: bold;
+}
+span.barTitle2 {
+    position: absolute;
+    top: -35px;
+    font-size: 20px;
+    font-weight: bold;
+}
+span.barTitle3 {
+    position: absolute;
+    top: -35px;
+    font-size: 20px;
+    font-weight: bold;
+}
+span.barTitle4 {
+    position: absolute;
+    top: -35px;
+    font-size: 20px;
+    font-weight: bold;
+}
+span.barTitle5 {
+    position: absolute;
+    top: -35px;
+    font-size: 20px;
+    font-weight: bold;
+}
+span.perTitle {
+    position: absolute;
+    font-size: 20px;
+    font-weight: bold;
+    top: 304px;
+    right: 16px;
+}
+span.perTitle1 {
+    position: absolute;
+    font-size: 20px;
+    font-weight: bold;
+    top: 362px;
+    right: 16px;
+}
+span.perTitle2 {
+    position: absolute;
+    font-size: 20px;
+    font-weight: bold;
+    top: 419px;
+    right: 16px;
+}
+span.perTitle3 {
+    position: absolute;
+    font-size: 20px;
+    font-weight: bold;
+    top: 477px;
+    right: 16px;
+}
+span.perTitle4 {
+    position: absolute;
+    font-size: 20px;
+    font-weight: bold;
+    top: 535px;
+    right: 16px;
+}
+span.perTitle5 {
+    position: absolute;
+    font-size: 20px;
+    font-weight: bold;
+    top: 593px;
+    right: 16px;
+}
+}
+@media(max-width:514px)
+{
+	span.barTitle {
+    position: absolute;
+    top: -35px;
+    font-size: 20px;
+    font-weight: bold;
+}
+span.barTitle1 {
+    position: absolute;
+    top: -35px;
+    font-size: 20px;
+    font-weight: bold;
+}
+span.barTitle2 {
+    position: absolute;
+    top: -35px;
+    font-size: 20px;
+    font-weight: bold;
+}
+span.barTitle3 {
+    position: absolute;
+    top: -35px;
+    font-size: 20px;
+    font-weight: bold;
+}
+span.barTitle4 {
+    position: absolute;
+    top: -35px;
+    font-size: 20px;
+    font-weight: bold;
+}
+span.barTitle5 {
+    position: absolute;
+    top: -35px;
+    font-size: 20px;
+    font-weight: bold;
+}
+span.perTitle {
+    position: absolute;
+    font-size: 20px;
+    font-weight: bold;
+    top: 326px;
+    right: 16px;
+}
+span.perTitle1 {
+    position: absolute;
+    font-size: 20px;
+    font-weight: bold;
+    top: 385px;
+    right: 16px;
+}
+span.perTitle2 {
+    position: absolute;
+    font-size: 20px;
+    font-weight: bold;
+    top: 443px;
+    right: 16px;
+}
+span.perTitle3 {
+    position: absolute;
+    font-size: 20px;
+    font-weight: bold;
+    top: 501px;
+    right: 16px;
+}
+span.perTitle4 {
+    position: absolute;
+    font-size: 20px;
+    font-weight: bold;
+    top: 556px;
+    right: 16px;
+}
+span.perTitle5 {
+    position: absolute;
+    font-size: 20px;
+    font-weight: bold;
+    top: 616px;
+    right: 16px;
+}
+}
+@media(max-width:765px)
+{
+a.download_btn{
+	width:100%;
+	display: block;
+	text-align: center;
+}
+a.hire_btn{
+	width:100%;
+	display: block;
+	text-align: center;
+	margin-top: 20px;
+}
+.nav_bg{
+	background:white;
+	border-top:3px solid #ff9800;
+}
+.nav-link{color:black !important}
+button.btn_bars i {font-size: 35px !important;}
+
+}
