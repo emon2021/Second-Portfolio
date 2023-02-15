@@ -396,10 +396,12 @@ a.btn_ancor:hover {
     padding: 20px;
     text-align: center;
     background: #eaeaea;
-    border-radius: 15px;
+    border-radius: 0px;
     cursor:pointer;
     margin-bottom: 29px;
 	transition:0.2s linear;
+	border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
 }
 .content_box:hover {
     transform: translateY(-10px);
